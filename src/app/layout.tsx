@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Health AI - Diagnostic Revolution",
-  description: "Advanced AI for healthcare Teşhis and patient care.",
+  description: "Advanced AI for healthcare diagnostics and patient care.",
 };
 
 export default function RootLayout({

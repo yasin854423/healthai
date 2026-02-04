@@ -197,7 +197,7 @@ export const dictionary = {
     tr: {
         hero: {
             title: "Sağlık AI",
-            subtitle: "Yapay Zeka ile Sağlığı Güçlendiriyoruz.",
+            subtitle: "YZ ile Sağlığı Güçlendiriyoruz.",
             description: "Gelişmiş makine öğrenimi algoritmaları ve öngörücü analizlerle hasta bakımı ve teşhiste devrim yaratıyoruz."
         },
         about: {
