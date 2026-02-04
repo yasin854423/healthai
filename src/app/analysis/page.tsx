@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useLanguage } from "@/context/LanguageContext";
 import {
     Upload, Activity, Heart, Wind, Dna, FileText, User, Cpu,
-    Brain, Stethoscope, Utensils, Droplet, Bone
+    Brain, Stethoscope, Utensils, Droplet, Bone, Baby
 } from "lucide-react";
 
 export default function AnalysisPage() {

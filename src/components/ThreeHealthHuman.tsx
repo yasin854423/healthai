@@ -38,7 +38,7 @@ interface BodyPartProps {
     animRef?: React.RefObject<THREE.Group>;
 }
 
-function BodyPart({ position, rotation, args, animRef = null }: BodyPartProps) {
+function BodyPart({ position, rotation, args, animRef }: BodyPartProps) {
     const { radius, height, count } = args;
     const { positions, colors } = useMemo(() => generateLocalCylinderPoints(radius, height, count), [radius, height, count]);
 

@@ -52,7 +52,7 @@ export const dictionary = {
         analysis: {
             title: "Patient Health Analysis",
             subtitle: "Comprehensive AI-driven health assessment",
-            personal_info: "Personal Information",
+            section_personal: "Personal Information",
             habits: "Lifestyle & Habits",
             clinical: "Clinical Data",
             uploads: "Reports & Imaging",
@@ -245,7 +245,7 @@ export const dictionary = {
         analysis: {
             title: "Hasta Sağlık Analizi",
             subtitle: "Kapsamlı yapay zeka destekli sağlık değerlendirmesi",
-            personal_info: "Kişisel Bilgiler",
+            section_personal: "Kişisel Bilgiler",
             habits: "Yaşam Tarzı & Alışkanlıklar",
             clinical: "Klinik Veriler",
             uploads: "Raporlar & Görüntüleme",
@@ -438,7 +438,7 @@ export const dictionary = {
         analysis: {
             title: "Análisis de Salud del Paciente",
             subtitle: "Evaluación de salud integral impulsada por IA",
-            personal_info: "Información Personal",
+            section_personal: "Información Personal",
             habits: "Estilo de Vida y Hábitos",
             clinical: "Datos Clínicos",
             uploads: "Informes e Imágenes",
